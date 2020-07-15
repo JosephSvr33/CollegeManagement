@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '184.95.53.181',
-	'username' => 'webcollege',
-	'password' => 'Pzms56#3',
-	'database' => 'wm_collegemanageemnt',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
